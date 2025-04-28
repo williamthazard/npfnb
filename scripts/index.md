@@ -1,0 +1,10 @@
+the following shell scripts are used to build [this website](../)
+
+* [build.sh](build.sh)
+* [gifcomp.sh](gifcomp.sh)
+* [vidflip.sh](vidflip.sh)
+* [imgflip.sh](imgflip.sh)
+* [htmlify.sh](htmlify.sh)
+* [redate.sh](redate.sh)
+* [build-rss.sh](build-rss.sh)
+* [update.sh](../update.sh)
