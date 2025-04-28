@@ -11,4 +11,4 @@ for file in $marks ; do
   file=${file%.*}
   echo "${file} | date: ${new_date}"
 done
-cd ../../scripts
+cd ../scripts
